@@ -1,4 +1,7 @@
 import './App.css';
+// sawkisi age aris 0.shevkmenit inceraseage funqcia 
+// romelicizrdeba 1it.da gadavecit onclickit.martivia.
+// usestate.kide ikneba magalitebikai ramea.
 import { useState } from 'react'
 function App() {
   const [age, setAge] = useState(0)
